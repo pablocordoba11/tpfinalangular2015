@@ -1,1 +1,3 @@
-# tpfinalangular2015
+# Trabajo Practico AngularJS
+	Autor Pablo Cordoba
+	
